@@ -76,6 +76,7 @@ function createPairs(arr) {
 createPairs([1, 2, 3, 4]);
 
 // O(log(n)) Logarithmic; As the data set increases in size the number of operations increases at an increasingly slower rate.
+// solutions shows as 0(n^2)
 
 // Computing Fibonaccis
 
